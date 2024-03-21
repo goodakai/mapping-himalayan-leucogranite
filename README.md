@@ -44,5 +44,5 @@ Mapping Himalayan leucogranite based on multi-source remote sensing data and Goo
 Usage
 
 -   Setting: study area, sample points and remote sensing bands
--   Run ‘GEE_mapping.py’ in Google Colaboratory or run ‘GEE_mapping.js’ in GEE Code Editor
+-   Run ‘GEE_mapping.ipynb’ in Google Colaboratory or run ‘GEE_mapping.js’ in GEE Code Editor
 
