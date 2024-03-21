@@ -1,3 +1,7 @@
+// JavaScript code for mapping leucogranite based on GEE
+// author: Dakai Guo,Ziye Wang
+// contact: Ziye Wang (Email: ziyewang@cug.edu.cn)
+
 // input vector file
 var aoi = ee.FeatureCollection("projects/ee-kaifangguo/assets/AOI");
 var hl_aoi = ee.FeatureCollection("projects/ee-kaifangguo/assets/cndhl");
