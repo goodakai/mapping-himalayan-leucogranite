@@ -17,15 +17,15 @@ Mapping Himalayan leucogranite based on multi-source remote sensing data and Goo
 
 **Input dataset (example)**
 
--   ee.FeatureCollection("projects/ee-kaifangguo/assets/AOI")
+-   ee.FeatureCollection("Asset ID/Asset name1")
 
     Locally uploaded vector file of the Himalayan orogenic belt region.
 
--   ee.FeatureCollection("projects/ee-kaifangguo/assets/cndhl")
+-   ee.FeatureCollection("Asset ID/Asset name2")
 
     Locally uploaded vector file of the Cuonadong dome region.
 
--   ee.FeatureCollection("projects/ee-kaifangguo/assets/unhl")
+-   ee.FeatureCollection("Asset ID/Asset name3")
 
     Locally uploaded vector file of the Himalayan orogenic belt area excluding the area of Cuonadong dome.
 
